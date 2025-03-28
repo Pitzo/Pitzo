@@ -29,9 +29,7 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://yourproject.com"><img src="https://img.shields.io/badge/PROJECTS-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://codepen.io/your-username"><img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </div>
 
 <div align="center">
