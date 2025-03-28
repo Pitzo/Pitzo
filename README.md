@@ -35,23 +35,3 @@
 <div align="center">
   <img src="https://github.com/YourUsername/YourUsername/blob/main/pixelbar.gif" width="100%" alt="pixel divider">
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
