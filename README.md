@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <h2>Technologies</h2>
+  <h2>Languages</h2>
 </div>
 
 <div align="center">
