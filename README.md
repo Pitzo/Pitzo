@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>Technologies</h2>
-  <hr style="width:50%;border:2px solid #ff0000;border-radius:5px;margin-bottom:20px">
+  <hr style="width:70%;border:1px solid #ff0000;margin-bottom:20px">
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 <div align="center">
   <h2>Entertainment</h2>
-  <hr style="width:50%;border:2px solid #ff0000;border-radius:5px;margin-bottom:20px">
+  <hr style="width:70%;border:1px solid #ff0000;margin-bottom:20px">
 </div>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 <div align="center">
   <h2>Connect With Me</h2>
-  <hr style="width:50%;border:2px solid #ff0000;border-radius:5px;margin-bottom:20px">
+  <hr style="width:70%;border:1px solid #ff0000;margin-bottom:20px">
 </div>
 
 <p align="center">
