@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Profile! 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=ffffff"/>
 </p>
