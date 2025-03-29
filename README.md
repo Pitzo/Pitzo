@@ -13,11 +13,10 @@
 </p>
 
 ## 🔍 About Me
-
-- 🚀 I'm passionate about creating innovative solutions
-- 🌱 I'm currently learning advanced game development techniques
-- 💬 Ask me about anything tech-related, I'm happy to help
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
+- 🚀 I'm passionate about creating innovative solutions through code
+- 🌱 I'm currently learning FiveM development and expanding my Computer Science knowledge
+- 💬 Ask me about problem-solving approaches - it's my specialty!
+- ⚡ Fun fact: I excel at debugging complex systems and finding elegant solutions
 
 ## 🛠️ Tech Stack
 
@@ -36,21 +35,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pitzo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pitzo&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitzo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🎮 When I'm Not Coding
@@ -65,18 +58,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/kyle-pitzo-6649b415b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://x.com/PitzoTheGod">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  <a href="https://discord.com/users/pitzo">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+
 </p>
 
 ## 🐍 Contribution Graph
