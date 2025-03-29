@@ -1,11 +1,11 @@
 # 👋 Welcome to My GitHub Profile! 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Game+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Game+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&size=22">
 </p>
 
 <p align="center">
@@ -32,20 +32,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pitzo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pitzo&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitzo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🎮 When I'm Not Coding
 
 <p align="center">
@@ -67,17 +53,8 @@
   <a href="https://discord.com/users/pitzo">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 </p>
-
-<!-- Don't forget to set up the snake animation workflow in .github/workflows/main.yml -->
