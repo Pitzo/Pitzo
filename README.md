@@ -24,17 +24,6 @@
 </div>
 
 <div align="center">
-  <h2>Entertainment</h2>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games"/>
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
-</p>
-
-<div align="center">
   <h2>Connect With Me</h2>
 </div>
 
