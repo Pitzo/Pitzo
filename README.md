@@ -30,9 +30,9 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Pitzo-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/pixelbar.gif" width="100%" alt="pixel divider">
+  <img src="https://i.imgur.com/waxVImv.png" alt="pixel divider" width="100%">
 </div>
