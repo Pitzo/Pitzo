@@ -10,14 +10,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-## 🔍 About Me
-- 🚀 I'm passionate about creating innovative solutions through code
-- 🌱 I'm currently learning FiveM development and expanding my Computer Science knowledge
-- 💬 Ask me about problem-solving approaches - it's my specialty!
-- ⚡ Fun fact: I excel at debugging complex systems and finding elegant solutions
-
-## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -30,16 +22,12 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
 </div>
 
-## 🎮 When I'm Not Coding
-
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games"/>
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
 </p>
-
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kyle-pitzo-6649b415b/">
