@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&text=Hello%20World!&height=100&section=header&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Game+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Game+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&size=22">
 </p>
 
 <p align="center">
@@ -54,5 +54,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 </p>
