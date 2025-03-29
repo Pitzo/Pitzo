@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2UwN2JqdGQyODB3eHIycWNjaG4zZHY1OWdmdnc5cWkwMGZwbG53eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" alt="Coder GIF" width="1000">
 </p>
 
 <div align="center">
