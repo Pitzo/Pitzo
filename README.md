@@ -1,19 +1,25 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Pitzo
+# 👋 Welcome to My GitHub Profile! 
 
-<div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/header.gif" alt="Coding Animation" width="600">
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&animation=fadeIn"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Game+Developer;Web+Developer;Pixel+Artist;Always+learning+new+things" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Game+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
 
-## 🚀 Current Projects
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
 
-```diff
-+ Game Development (FiveM) 
-+ Web Applications
-```
+## 🔍 About Me
 
-## 💻 Tech Stack
+- 🚀 I'm passionate about creating innovative solutions
+- 🌱 I'm currently learning advanced game development techniques
+- 💬 Ask me about anything tech-related, I'm happy to help
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -27,12 +33,60 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
 </div>
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Pitzo-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="pixel divider" width="100%">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+## 🎮 When I'm Not Coding
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games"/>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://medium.com/@yourusername">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<!-- Don't forget to set up the snake animation workflow in .github/workflows/main.yml -->
