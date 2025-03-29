@@ -7,8 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2UwN2JqdGQyODB3eHIycWNjaG4zZHY1OWdmdnc5cWkwMGZwbG53eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" alt="Coder GIF" width="1000">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" width="500">
 </p>
+
+<div align="center">
+  <h2>Technologies</h2>
+  <hr style="width:50%;border:2px solid #ff0000;border-radius:5px;margin-bottom:20px">
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -22,12 +27,22 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
 </div>
 
+<div align="center">
+  <h2>Entertainment</h2>
+  <hr style="width:50%;border:2px solid #ff0000;border-radius:5px;margin-bottom:20px">
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games"/>
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
 </p>
+
+<div align="center">
+  <h2>Connect With Me</h2>
+  <hr style="width:50%;border:2px solid #ff0000;border-radius:5px;margin-bottom:20px">
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kyle-pitzo-6649b415b/">
