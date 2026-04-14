@@ -8,8 +8,6 @@
 
 <br/>
 
-<div align="center">
-
 ```lua
 local pitzo = {
     job = "professional ESX to QBCore converter",
