@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Building+EchoLingo;Lua+%7C+React+%7C+Python+%7C+TypeScript;Game+Enthusiast+%26+Creator&font=Fira+Code&center=true&width=500&height=50&color=FF0000&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Building+FiveM+Shit;Lua+%7C+React+%7C+Python+%7C+TypeScript;Game+Enthusiast+%26+Creator&font=Fira+Code&center=true&width=500&height=50&color=FF0000&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
 </p>
 
 <br/>
