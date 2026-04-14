@@ -12,9 +12,9 @@
 
 ```lua
 local pitzo = {
-    job         = "professional ESX to QBCore converter",
-    side_quest  = "fixing FiveM bugs at 3am",
-    status      = "one more script then I sleep"
+    job        = "professional ESX to QBCore converter",
+    side_quest = "fixing FiveM bugs at 3am",
+    status     = "one more script then I sleep",
 }
 ```
 
